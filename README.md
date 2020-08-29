@@ -1,2 +1,3 @@
 # Hello-World
-Creating my first repo
+Creating my first repo here in Github... 
+I love hiking and camping, eating sushu, and watching horror films.
